@@ -1,0 +1,6 @@
+C:\Users\Ali Azami\Desktop\TestGit\TestGit05\TestGit05\TestGit05\bin\Debug\TestGit05.exe.config
+C:\Users\Ali Azami\Desktop\TestGit\TestGit05\TestGit05\TestGit05\bin\Debug\TestGit05.exe
+C:\Users\Ali Azami\Desktop\TestGit\TestGit05\TestGit05\TestGit05\bin\Debug\TestGit05.pdb
+C:\Users\Ali Azami\Desktop\TestGit\TestGit05\TestGit05\TestGit05\obj\Debug\TestGit05.csprojResolveAssemblyReference.cache
+C:\Users\Ali Azami\Desktop\TestGit\TestGit05\TestGit05\TestGit05\obj\Debug\TestGit05.exe
+C:\Users\Ali Azami\Desktop\TestGit\TestGit05\TestGit05\TestGit05\obj\Debug\TestGit05.pdb
