@@ -11,6 +11,7 @@ namespace TestGit05
         static void Main(string[] args)
         {
             Console.WriteLine("TestGit05 Phase 01");
+            Console.WriteLine("TestGit05 Phase 02");
 
             Console.ReadKey();
         }
